@@ -11,3 +11,5 @@ func main() {
   fmt.Println("Hello, World!")
 }
 ```
+
+- [x] try to learn `md`
